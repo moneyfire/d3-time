@@ -268,10 +268,9 @@ cross-spawn@^7.0.2:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
-"d3-array@2 - 3":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-3.0.0.tgz#32edad6c4b1a8c85800ffc856a5d6a4761a83a6d"
-  integrity sha512-2t/oQ99GzOkttogku85VrBbY2soA/SfVea9fkCGhJ4830sAo8Eslx1SgWT9bzLv9Pxypm+Vjl/BfCnUWTcoDXw==
+"d3-array@ssh://git@github.com:moneyfire/d3-array#main":
+  version "3.0.1"
+  resolved "ssh://git@github.com:moneyfire/d3-array#db68330f1d79bb05ffef48e6c450e94ed865a6a2"
   dependencies:
     internmap "1 - 2"
 
